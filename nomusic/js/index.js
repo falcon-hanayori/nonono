@@ -164,8 +164,7 @@ $(document).ready(function () {
                 "<img src =" + musicModels[i].img + " />");
             $musicDiv.append($img);
             //  创建一个音乐信息的p标签 
-            var $musicMsg = $("<p>" + musicModels[i].sc_name + " &nbsp;&nbsp;&nbsp;&nbsp;"
-                + musicModels[i].jp_name
+            var $musicMsg = $("<p>" + musicModels[i].jp_name
                 + "</p>"
             );
             $musicDiv.append($musicMsg);
