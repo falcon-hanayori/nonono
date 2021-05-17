@@ -7,1130 +7,1123 @@
         "num": 0
     },
     {
-        "src": "audio/\u5176\u4ed6/Lemon\u6e05\u5531\u301020.04.05\u3011_01.mp3",
-        "img": "icon/album.svg",
-        "sc_name": "\u5176\u4ed6_Lemon\u6e05\u5531\u301020.04.05\u3011_01.mp3",
-        "jp_name": "\u5176\u4ed6_Lemon\u6e05\u5531\u301020.04.05\u3011_01.mp3",
-        "num": 1
-    },
-    {
         "src": "audio/20.07.12/\u30cf\u30c3\u30d4\u30fc\u30b7\u30f3\u30bb\u30b5\u30a4\u30b6\u301020.07.12\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.07.12_\u30cf\u30c3\u30d4\u30fc\u30b7\u30f3\u30bb\u30b5\u30a4\u30b6\u301020.07.12\u3011.mp3",
         "jp_name": "20.07.12_\u30cf\u30c3\u30d4\u30fc\u30b7\u30f3\u30bb\u30b5\u30a4\u30b6\u301020.07.12\u3011.mp3",
-        "num": 2
+        "num": 1
     },
     {
         "src": "audio/20.07.12/\u30c8\u30a6\u30ad\u30e7\u30a6\u30c8\u00b7\u30ed\u30c3\u30af\u00b7\u30b7\u30c6\u30a3\u301020.07.12\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.07.12_\u30c8\u30a6\u30ad\u30e7\u30a6\u30c8\u00b7\u30ed\u30c3\u30af\u00b7\u30b7\u30c6\u30a3\u301020.07.12\u3011.mp3",
         "jp_name": "20.07.12_\u30c8\u30a6\u30ad\u30e7\u30a6\u30c8\u00b7\u30ed\u30c3\u30af\u00b7\u30b7\u30c6\u30a3\u301020.07.12\u3011.mp3",
-        "num": 3
+        "num": 2
     },
     {
         "src": "audio/20.07.12/\u541b\u306e\u77e5\u3089\u306a\u3044\u7269\u8bed\u301020.07.12\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.07.12_\u541b\u306e\u77e5\u3089\u306a\u3044\u7269\u8bed\u301020.07.12\u3011.mp3",
         "jp_name": "20.07.12_\u541b\u306e\u77e5\u3089\u306a\u3044\u7269\u8bed\u301020.07.12\u3011.mp3",
-        "num": 4
+        "num": 3
     },
     {
         "src": "audio/20.07.12/\u3044\u304b\u306a\u3044\u3067\u301020.07.12\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.07.12_\u3044\u304b\u306a\u3044\u3067\u301020.07.12\u3011.mp3",
         "jp_name": "20.07.12_\u3044\u304b\u306a\u3044\u3067\u301020.07.12\u3011.mp3",
-        "num": 5
+        "num": 4
     },
     {
         "src": "audio/20.07.12/rain stops,good-bye\u301020.07.12\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.07.12_rain stops,good-bye\u301020.07.12\u3011.mp3",
         "jp_name": "20.07.12_rain stops,good-bye\u301020.07.12\u3011.mp3",
-        "num": 6
+        "num": 5
     },
     {
         "src": "audio/20.07.12/\u30b5\u30ea\u30b7\u30ce\u30cf\u30e9\u301020.07.12\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.07.12_\u30b5\u30ea\u30b7\u30ce\u30cf\u30e9\u301020.07.12\u3011.mp3",
         "jp_name": "20.07.12_\u30b5\u30ea\u30b7\u30ce\u30cf\u30e9\u301020.07.12\u3011.mp3",
-        "num": 7
+        "num": 6
     },
     {
         "src": "audio/20.01.28/\u91d1\u66dc\u65e5\u306e\u304a\u306f\u3088\u3046\u301020.01.28\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.28_\u91d1\u66dc\u65e5\u306e\u304a\u306f\u3088\u3046\u301020.01.28\u3011.mp3",
         "jp_name": "20.01.28_\u91d1\u66dc\u65e5\u306e\u304a\u306f\u3088\u3046\u301020.01.28\u3011.mp3",
-        "num": 8
+        "num": 7
     },
     {
         "src": "audio/20.01.28/\u30ed\u30ad\u301020.01.28\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.28_\u30ed\u30ad\u301020.01.28\u3011.mp3",
         "jp_name": "20.01.28_\u30ed\u30ad\u301020.01.28\u3011.mp3",
-        "num": 9
+        "num": 8
     },
     {
         "src": "audio/20.01.28/Calc.\u301020.01.28\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.28_Calc.\u301020.01.28\u3011.mp3",
         "jp_name": "20.01.28_Calc.\u301020.01.28\u3011.mp3",
-        "num": 10
+        "num": 9
     },
     {
         "src": "audio/20.01.28/\u30d6\u30ea\u30ad\u30ce\u30c0\u30f3\u30b9\u301020.01.28\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.28_\u30d6\u30ea\u30ad\u30ce\u30c0\u30f3\u30b9\u301020.01.28\u3011.mp3",
         "jp_name": "20.01.28_\u30d6\u30ea\u30ad\u30ce\u30c0\u30f3\u30b9\u301020.01.28\u3011.mp3",
-        "num": 11
+        "num": 10
     },
     {
         "src": "audio/20.01.28/\u3086\u308b\u3075\u308f\u6a39\u6d77\u30ac\u30fc\u30eb\u301020.01.28\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.28_\u3086\u308b\u3075\u308f\u6a39\u6d77\u30ac\u30fc\u30eb\u301020.01.28\u3011.mp3",
         "jp_name": "20.01.28_\u3086\u308b\u3075\u308f\u6a39\u6d77\u30ac\u30fc\u30eb\u301020.01.28\u3011.mp3",
-        "num": 12
+        "num": 11
     },
     {
         "src": "audio/20.01.28/\u7fe1\u7fe0\u306e\u307e\u3061\u301020.01.28\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.28_\u7fe1\u7fe0\u306e\u307e\u3061\u301020.01.28\u3011.mp3",
         "jp_name": "20.01.28_\u7fe1\u7fe0\u306e\u307e\u3061\u301020.01.28\u3011.mp3",
-        "num": 13
+        "num": 12
     },
     {
         "src": "audio/20.01.28/\u3044\u304b\u306a\u3044\u3067\u301020.01.28\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.28_\u3044\u304b\u306a\u3044\u3067\u301020.01.28\u3011.mp3",
         "jp_name": "20.01.28_\u3044\u304b\u306a\u3044\u3067\u301020.01.28\u3011.mp3",
-        "num": 14
+        "num": 13
     },
     {
         "src": "audio/20.01.28/\u30a2\u30a4\u30e9\u30d3\u30e5\u30fc\u30a2\u30a4\u30cb\u30b8\u30e5\u30fc\u301020.01.28\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.28_\u30a2\u30a4\u30e9\u30d3\u30e5\u30fc\u30a2\u30a4\u30cb\u30b8\u30e5\u30fc\u301020.01.28\u3011.mp3",
         "jp_name": "20.01.28_\u30a2\u30a4\u30e9\u30d3\u30e5\u30fc\u30a2\u30a4\u30cb\u30b8\u30e5\u30fc\u301020.01.28\u3011.mp3",
-        "num": 15
+        "num": 14
     },
     {
         "src": "audio/20.01.23/\u30a6\u30df\u30e6\u30ea\u6d77\u5e95\u8b5a\u301020.01.23\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.23_\u30a6\u30df\u30e6\u30ea\u6d77\u5e95\u8b5a\u301020.01.23\u3011.mp3",
         "jp_name": "20.01.23_\u30a6\u30df\u30e6\u30ea\u6d77\u5e95\u8b5a\u301020.01.23\u3011.mp3",
-        "num": 16
+        "num": 15
     },
     {
         "src": "audio/20.01.23/\u3044\u304b\u306a\u3044\u3067\u301020.01.23\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.23_\u3044\u304b\u306a\u3044\u3067\u301020.01.23\u3011.mp3",
         "jp_name": "20.01.23_\u3044\u304b\u306a\u3044\u3067\u301020.01.23\u3011.mp3",
-        "num": 17
+        "num": 16
     },
     {
         "src": "audio/20.01.23/\u5730\u7403\u6700\u5f8c\u306e\u544a\u767d\u3092\u301020.01.23\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.23_\u5730\u7403\u6700\u5f8c\u306e\u544a\u767d\u3092\u301020.01.23\u3011.mp3",
         "jp_name": "20.01.23_\u5730\u7403\u6700\u5f8c\u306e\u544a\u767d\u3092\u301020.01.23\u3011.mp3",
-        "num": 18
+        "num": 17
     },
     {
         "src": "audio/20.01.23/\u9752\u7a7a\u306e\u30e9\u30d7\u30bd\u30c7\u30a3\u301020.01.23\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.23_\u9752\u7a7a\u306e\u30e9\u30d7\u30bd\u30c7\u30a3\u301020.01.23\u3011.mp3",
         "jp_name": "20.01.23_\u9752\u7a7a\u306e\u30e9\u30d7\u30bd\u30c7\u30a3\u301020.01.23\u3011.mp3",
-        "num": 19
+        "num": 18
     },
     {
         "src": "audio/20.01.23/\u3044\u3051\u306a\u3044\u30dc\u30fc\u30c0\u30fc\u30e9\u30a4\u30f3\u301020.01.23\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.23_\u3044\u3051\u306a\u3044\u30dc\u30fc\u30c0\u30fc\u30e9\u30a4\u30f3\u301020.01.23\u3011.mp3",
         "jp_name": "20.01.23_\u3044\u3051\u306a\u3044\u30dc\u30fc\u30c0\u30fc\u30e9\u30a4\u30f3\u301020.01.23\u3011.mp3",
-        "num": 20
+        "num": 19
     },
     {
         "src": "audio/20.01.23/\u5fc3\u505a\u3057\u301020.01.23\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.23_\u5fc3\u505a\u3057\u301020.01.23\u3011.mp3",
         "jp_name": "20.01.23_\u5fc3\u505a\u3057\u301020.01.23\u3011.mp3",
-        "num": 21
+        "num": 20
     },
     {
         "src": "audio/20.01.23/\u661f\u9593\u98db\u884c\u301020.01.23\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.23_\u661f\u9593\u98db\u884c\u301020.01.23\u3011.mp3",
         "jp_name": "20.01.23_\u661f\u9593\u98db\u884c\u301020.01.23\u3011.mp3",
-        "num": 22
+        "num": 21
     },
     {
         "src": "audio/20.05.01/\u3068\u304d\u3081\u304d\u30dd\u30dd\u30ed\u30f3\u301020.05.01\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.01_\u3068\u304d\u3081\u304d\u30dd\u30dd\u30ed\u30f3\u301020.05.01\u3011.mp3",
         "jp_name": "20.05.01_\u3068\u304d\u3081\u304d\u30dd\u30dd\u30ed\u30f3\u301020.05.01\u3011.mp3",
-        "num": 23
+        "num": 22
     },
     {
         "src": "audio/20.05.01/\u30ef\u30fc\u30eb\u30c9\u30a4\u30ba\u30de\u30a4\u30f3\u301020.05.01\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.01_\u30ef\u30fc\u30eb\u30c9\u30a4\u30ba\u30de\u30a4\u30f3\u301020.05.01\u3011.mp3",
         "jp_name": "20.05.01_\u30ef\u30fc\u30eb\u30c9\u30a4\u30ba\u30de\u30a4\u30f3\u301020.05.01\u3011.mp3",
-        "num": 24
+        "num": 23
     },
     {
         "src": "audio/20.05.01/\u3044\u304b\u306a\u3044\u3067\u301020.05.01\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.01_\u3044\u304b\u306a\u3044\u3067\u301020.05.01\u3011.mp3",
         "jp_name": "20.05.01_\u3044\u304b\u306a\u3044\u3067\u301020.05.01\u3011.mp3",
-        "num": 25
+        "num": 24
     },
     {
         "src": "audio/20.05.01/\u591c\u660e\u3051\u3068\u86cd\u301020.05.01\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.01_\u591c\u660e\u3051\u3068\u86cd\u301020.05.01\u3011.mp3",
         "jp_name": "20.05.01_\u591c\u660e\u3051\u3068\u86cd\u301020.05.01\u3011.mp3",
-        "num": 26
+        "num": 25
     },
     {
         "src": "audio/20.05.01/\u66a7\u6627\u52a3\u60c5Lover\u301020.05.01\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.01_\u66a7\u6627\u52a3\u60c5Lover\u301020.05.01\u3011.mp3",
         "jp_name": "20.05.01_\u66a7\u6627\u52a3\u60c5Lover\u301020.05.01\u3011.mp3",
-        "num": 27
+        "num": 26
     },
     {
         "src": "audio/20.05.01/\u5c0f\u591c\u5b50\u301020.05.01\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.01_\u5c0f\u591c\u5b50\u301020.05.01\u3011.mp3",
         "jp_name": "20.05.01_\u5c0f\u591c\u5b50\u301020.05.01\u3011.mp3",
-        "num": 28
+        "num": 27
     },
     {
         "src": "audio/20.05.01/\u611b\u8a00\u8449\u2162\u301020.05.01\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.01_\u611b\u8a00\u8449\u2162\u301020.05.01\u3011.mp3",
         "jp_name": "20.05.01_\u611b\u8a00\u8449\u2162\u301020.05.01\u3011.mp3",
-        "num": 29
+        "num": 28
     },
     {
         "src": "audio/19.11.10/U&I\u301019.11.10\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.10_U&I\u301019.11.10\u3011.mp3",
         "jp_name": "19.11.10_U&I\u301019.11.10\u3011.mp3",
-        "num": 30
+        "num": 29
     },
     {
         "src": "audio/19.11.10/\u30cf\u30ed\uff0f\u30cf\u30ef\u30e6\u301019.11.10\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.10_\u30cf\u30ed\uff0f\u30cf\u30ef\u30e6\u301019.11.10\u3011.mp3",
         "jp_name": "19.11.10_\u30cf\u30ed\uff0f\u30cf\u30ef\u30e6\u301019.11.10\u3011.mp3",
-        "num": 31
+        "num": 30
     },
     {
         "src": "audio/19.11.10/\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9\u300a\u9752\u9e1f\u300b\u301019.11.10\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.10_\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9\u300a\u9752\u9e1f\u300b\u301019.11.10\u3011.mp3",
         "jp_name": "19.11.10_\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9\u300a\u9752\u9e1f\u300b\u301019.11.10\u3011.mp3",
-        "num": 32
+        "num": 31
     },
     {
         "src": "audio/19.11.10/\u5c0f\u591c\u5b50\u301019.11.10\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.10_\u5c0f\u591c\u5b50\u301019.11.10\u3011.mp3",
         "jp_name": "19.11.10_\u5c0f\u591c\u5b50\u301019.11.10\u3011.mp3",
-        "num": 33
+        "num": 32
     },
     {
         "src": "audio/19.11.10/\u30cf\u30a4\u30c9\u30a2\u30f3\u30c9\u30fb\u30b7\u30fc\u30af\u301019.11.10\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.10_\u30cf\u30a4\u30c9\u30a2\u30f3\u30c9\u30fb\u30b7\u30fc\u30af\u301019.11.10\u3011.mp3",
         "jp_name": "19.11.10_\u30cf\u30a4\u30c9\u30a2\u30f3\u30c9\u30fb\u30b7\u30fc\u30af\u301019.11.10\u3011.mp3",
-        "num": 34
+        "num": 33
     },
     {
         "src": "audio/19.11.10/\u30e1\u30e9\u30f3\u30b3\u30ea\u30c3\u30af\u301019.11.10\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.10_\u30e1\u30e9\u30f3\u30b3\u30ea\u30c3\u30af\u301019.11.10\u3011.mp3",
         "jp_name": "19.11.10_\u30e1\u30e9\u30f3\u30b3\u30ea\u30c3\u30af\u301019.11.10\u3011.mp3",
-        "num": 35
+        "num": 34
     },
     {
         "src": "audio/19.11.10/\u3044\u304b\u306a\u3044\u3067\u301019.11.10\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.10_\u3044\u304b\u306a\u3044\u3067\u301019.11.10\u3011.mp3",
         "jp_name": "19.11.10_\u3044\u304b\u306a\u3044\u3067\u301019.11.10\u3011.mp3",
-        "num": 36
+        "num": 35
     },
     {
         "src": "audio/19.11.10/\u3075\u308f\u3075\u308f\u6642\u9593\u301019.11.10\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.10_\u3075\u308f\u3075\u308f\u6642\u9593\u301019.11.10\u3011.mp3",
         "jp_name": "19.11.10_\u3075\u308f\u3075\u308f\u6642\u9593\u301019.11.10\u3011.mp3",
-        "num": 37
+        "num": 36
     },
     {
         "src": "audio/19.11.10/\u5fc3\u62cd\u6570\u266f0822\u301019.11.10\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.10_\u5fc3\u62cd\u6570\u266f0822\u301019.11.10\u3011.mp3",
         "jp_name": "19.11.10_\u5fc3\u62cd\u6570\u266f0822\u301019.11.10\u3011.mp3",
-        "num": 38
+        "num": 37
     },
     {
         "src": "audio/19.11.03/\u30b3\u30e1\u30c3\u30c8\u30eb\u30b7\u30d5\u30a1\u30fc\u301019.11.03\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.03_\u30b3\u30e1\u30c3\u30c8\u30eb\u30b7\u30d5\u30a1\u30fc\u301019.11.03\u3011.mp3",
         "jp_name": "19.11.03_\u30b3\u30e1\u30c3\u30c8\u30eb\u30b7\u30d5\u30a1\u30fc\u301019.11.03\u3011.mp3",
-        "num": 39
+        "num": 38
     },
     {
         "src": "audio/19.11.03/Don't say lazy\u301019.11.03\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.03_Don't say lazy\u301019.11.03\u3011.mp3",
         "jp_name": "19.11.03_Don't say lazy\u301019.11.03\u3011.mp3",
-        "num": 40
+        "num": 39
     },
     {
         "src": "audio/19.11.03/\u30e1\u30eb\u30c8\u301019.11.03\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.03_\u30e1\u30eb\u30c8\u301019.11.03\u3011.mp3",
         "jp_name": "19.11.03_\u30e1\u30eb\u30c8\u301019.11.03\u3011.mp3",
-        "num": 41
+        "num": 40
     },
     {
         "src": "audio/19.11.03/\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc\u301019.11.03\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.03_\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc\u301019.11.03\u3011.mp3",
         "jp_name": "19.11.03_\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc\u301019.11.03\u3011.mp3",
-        "num": 42
+        "num": 41
     },
     {
         "src": "audio/19.11.03/\u521d\u3081\u3066\u306e\u604b\u304c\u7d42\u308f\u308b\u6642\u301019.11.03\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.03_\u521d\u3081\u3066\u306e\u604b\u304c\u7d42\u308f\u308b\u6642\u301019.11.03\u3011.mp3",
         "jp_name": "19.11.03_\u521d\u3081\u3066\u306e\u604b\u304c\u7d42\u308f\u308b\u6642\u301019.11.03\u3011.mp3",
-        "num": 43
+        "num": 42
     },
     {
         "src": "audio/19.11.03/\u541b\u306e\u77e5\u3089\u306a\u3044\u7269\u8a9e\u301019.11.03\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.03_\u541b\u306e\u77e5\u3089\u306a\u3044\u7269\u8a9e\u301019.11.03\u3011.mp3",
         "jp_name": "19.11.03_\u541b\u306e\u77e5\u3089\u306a\u3044\u7269\u8a9e\u301019.11.03\u3011.mp3",
-        "num": 44
+        "num": 43
     },
     {
         "src": "audio/19.11.03/\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3\u301019.11.03\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.03_\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3\u301019.11.03\u3011.mp3",
         "jp_name": "19.11.03_\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3\u301019.11.03\u3011.mp3",
-        "num": 45
+        "num": 44
     },
     {
         "src": "audio/19.11.03/\u3088\u3046\u3053\u305d\u30b8\u30e3\u30d1\u30ea\u30d1\u30fc\u30af\u3078\u301019.11.03\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.03_\u3088\u3046\u3053\u305d\u30b8\u30e3\u30d1\u30ea\u30d1\u30fc\u30af\u3078\u301019.11.03\u3011.mp3",
         "jp_name": "19.11.03_\u3088\u3046\u3053\u305d\u30b8\u30e3\u30d1\u30ea\u30d1\u30fc\u30af\u3078\u301019.11.03\u3011.mp3",
-        "num": 46
+        "num": 45
     },
     {
         "src": "audio/19.11.03/\u30d7\u30e9\u30c1\u30ca\u301019.11.03\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.03_\u30d7\u30e9\u30c1\u30ca\u301019.11.03\u3011.mp3",
         "jp_name": "19.11.03_\u30d7\u30e9\u30c1\u30ca\u301019.11.03\u3011.mp3",
-        "num": 47
+        "num": 46
     },
     {
         "src": "audio/19.11.03/\u30e1\u30e9\u30f3\u30b3\u30ea\u30c3\u30af\u301019.11.03\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.03_\u30e1\u30e9\u30f3\u30b3\u30ea\u30c3\u30af\u301019.11.03\u3011.mp3",
         "jp_name": "19.11.03_\u30e1\u30e9\u30f3\u30b3\u30ea\u30c3\u30af\u301019.11.03\u3011.mp3",
-        "num": 48
+        "num": 47
     },
     {
         "src": "audio/20.03.08/\u5922\u5730\u56f3\u301020.03.08\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.03.08_\u5922\u5730\u56f3\u301020.03.08\u3011.mp3",
         "jp_name": "20.03.08_\u5922\u5730\u56f3\u301020.03.08\u3011.mp3",
-        "num": 49
+        "num": 48
     },
     {
         "src": "audio/20.03.08/\u30ce\u30fc\u30b6\u30f3\u30af\u30ed\u30b9\u301020.03.08\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.03.08_\u30ce\u30fc\u30b6\u30f3\u30af\u30ed\u30b9\u301020.03.08\u3011.mp3",
         "jp_name": "20.03.08_\u30ce\u30fc\u30b6\u30f3\u30af\u30ed\u30b9\u301020.03.08\u3011.mp3",
-        "num": 50
+        "num": 49
     },
     {
         "src": "audio/20.03.08/\u604b\u611b\u88c1\u5224\u301020.03.08\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.03.08_\u604b\u611b\u88c1\u5224\u301020.03.08\u3011.mp3",
         "jp_name": "20.03.08_\u604b\u611b\u88c1\u5224\u301020.03.08\u3011.mp3",
-        "num": 51
+        "num": 50
     },
     {
         "src": "audio/20.03.08/again\u301020.03.08\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.03.08_again\u301020.03.08\u3011.mp3",
         "jp_name": "20.03.08_again\u301020.03.08\u3011.mp3",
-        "num": 52
+        "num": 51
     },
     {
         "src": "audio/20.03.08/\u3044\u304b\u306a\u3044\u3067\u301020.03.08\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.03.08_\u3044\u304b\u306a\u3044\u3067\u301020.03.08\u3011.mp3",
         "jp_name": "20.03.08_\u3044\u304b\u306a\u3044\u3067\u301020.03.08\u3011.mp3",
-        "num": 53
+        "num": 52
     },
     {
         "src": "audio/20.03.08/kiss\u301020.03.08\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.03.08_kiss\u301020.03.08\u3011.mp3",
         "jp_name": "20.03.08_kiss\u301020.03.08\u3011.mp3",
-        "num": 54
+        "num": 53
     },
     {
         "src": "audio/20.03.08/rain stops, good-bye\u301020.03.08\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.03.08_rain stops, good-bye\u301020.03.08\u3011.mp3",
         "jp_name": "20.03.08_rain stops, good-bye\u301020.03.08\u3011.mp3",
-        "num": 55
+        "num": 54
     },
     {
         "src": "audio/19.12.04/\u5f31\u866b\u30e2\u30f3\u30d6\u30e9\u30f3\u301019.11.04\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.12.04_\u5f31\u866b\u30e2\u30f3\u30d6\u30e9\u30f3\u301019.11.04\u3011.mp3",
         "jp_name": "19.12.04_\u5f31\u866b\u30e2\u30f3\u30d6\u30e9\u30f3\u301019.11.04\u3011.mp3",
-        "num": 56
+        "num": 55
     },
     {
         "src": "audio/19.12.04/\u30e9\u30a4\u30aa\u30f3\u301019.11.04\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.12.04_\u30e9\u30a4\u30aa\u30f3\u301019.11.04\u3011.mp3",
         "jp_name": "19.12.04_\u30e9\u30a4\u30aa\u30f3\u301019.11.04\u3011.mp3",
-        "num": 57
+        "num": 56
     },
     {
         "src": "audio/19.12.04/\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3\u301019.11.04\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.12.04_\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3\u301019.11.04\u3011.mp3",
         "jp_name": "19.12.04_\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3\u301019.11.04\u3011.mp3",
-        "num": 58
+        "num": 57
     },
     {
         "src": "audio/19.12.04/\u30e1\u30ea\u30e5\u30fc \u301019.11.04\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.12.04_\u30e1\u30ea\u30e5\u30fc \u301019.11.04\u3011.mp3",
         "jp_name": "19.12.04_\u30e1\u30ea\u30e5\u30fc \u301019.11.04\u3011.mp3",
-        "num": 59
+        "num": 58
     },
     {
         "src": "audio/19.12.04/Calc.\u301019.11.04\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.12.04_Calc.\u301019.11.04\u3011.mp3",
         "jp_name": "19.12.04_Calc.\u301019.11.04\u3011.mp3",
-        "num": 60
+        "num": 59
     },
     {
         "src": "audio/19.12.04/\u30b3\u30cd\u30af\u30c8\u301019.11.04\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.12.04_\u30b3\u30cd\u30af\u30c8\u301019.11.04\u3011.mp3",
         "jp_name": "19.12.04_\u30b3\u30cd\u30af\u30c8\u301019.11.04\u3011.mp3",
-        "num": 61
+        "num": 60
     },
     {
         "src": "audio/19.12.04/\u3044\u304b\u306a\u3044\u3067\u301019.11.04\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.12.04_\u3044\u304b\u306a\u3044\u3067\u301019.11.04\u3011.mp3",
         "jp_name": "19.12.04_\u3044\u304b\u306a\u3044\u3067\u301019.11.04\u3011.mp3",
-        "num": 62
+        "num": 61
     },
     {
         "src": "audio/19.12.04/\u767d\u3044\u96ea\u306e\u30d7\u30ea\u30f3\u30bb\u30b9\u306f\u301019.11.04\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.12.04_\u767d\u3044\u96ea\u306e\u30d7\u30ea\u30f3\u30bb\u30b9\u306f\u301019.11.04\u3011.mp3",
         "jp_name": "19.12.04_\u767d\u3044\u96ea\u306e\u30d7\u30ea\u30f3\u30bb\u30b9\u306f\u301019.11.04\u3011.mp3",
-        "num": 63
+        "num": 62
     },
     {
         "src": "audio/19.12.04/\u8bf4\u597d\u4e0d\u54ed\u301019.11.04\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.12.04_\u8bf4\u597d\u4e0d\u54ed\u301019.11.04\u3011.mp3",
         "jp_name": "19.12.04_\u8bf4\u597d\u4e0d\u54ed\u301019.11.04\u3011.mp3",
-        "num": 64
+        "num": 63
     },
     {
         "src": "audio/20.01.15/\u53ef\u611b\u304f\u306a\u308a\u305f\u3044\u301020.01.15\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.15_\u53ef\u611b\u304f\u306a\u308a\u305f\u3044\u301020.01.15\u3011.mp3",
         "jp_name": "20.01.15_\u53ef\u611b\u304f\u306a\u308a\u305f\u3044\u301020.01.15\u3011.mp3",
-        "num": 65
+        "num": 64
     },
     {
         "src": "audio/20.01.15/\u591c\u660e\u3051\u3068\u86cd\u301020.01.15\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.15_\u591c\u660e\u3051\u3068\u86cd\u301020.01.15\u3011.mp3",
         "jp_name": "20.01.15_\u591c\u660e\u3051\u3068\u86cd\u301020.01.15\u3011.mp3",
-        "num": 66
+        "num": 65
     },
     {
         "src": "audio/20.01.15/\u9752\u6625\u306a\u3093\u3066\u3044\u3089\u306a\u3044\u308f\u301020.01.15\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.15_\u9752\u6625\u306a\u3093\u3066\u3044\u3089\u306a\u3044\u308f\u301020.01.15\u3011.mp3",
         "jp_name": "20.01.15_\u9752\u6625\u306a\u3093\u3066\u3044\u3089\u306a\u3044\u308f\u301020.01.15\u3011.mp3",
-        "num": 67
+        "num": 66
     },
     {
         "src": "audio/20.01.15/secret base \u301c\u541b\u304c\u304f\u308c\u305f\u3082\u306e\u301c\u301020.01.15\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.15_secret base \u301c\u541b\u304c\u304f\u308c\u305f\u3082\u306e\u301c\u301020.01.15\u3011.mp3",
         "jp_name": "20.01.15_secret base \u301c\u541b\u304c\u304f\u308c\u305f\u3082\u306e\u301c\u301020.01.15\u3011.mp3",
-        "num": 68
+        "num": 67
     },
     {
         "src": "audio/20.01.15/\u671d\u713c\u3051\u3001\u541b\u306e\u5504 \u301020.01.15\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.15_\u671d\u713c\u3051\u3001\u541b\u306e\u5504 \u301020.01.15\u3011.mp3",
         "jp_name": "20.01.15_\u671d\u713c\u3051\u3001\u541b\u306e\u5504 \u301020.01.15\u3011.mp3",
-        "num": 69
+        "num": 68
     },
     {
         "src": "audio/20.01.15/\u30ce\u30fc\u30b6\u30f3\u30af\u30ed\u30b9\u301020.01.15\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.15_\u30ce\u30fc\u30b6\u30f3\u30af\u30ed\u30b9\u301020.01.15\u3011.mp3",
         "jp_name": "20.01.15_\u30ce\u30fc\u30b6\u30f3\u30af\u30ed\u30b9\u301020.01.15\u3011.mp3",
-        "num": 70
+        "num": 69
     },
     {
         "src": "audio/20.01.15/\u3044\u304b\u306a\u3044\u3067\u301020.01.15\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.15_\u3044\u304b\u306a\u3044\u3067\u301020.01.15\u3011.mp3",
         "jp_name": "20.01.15_\u3044\u304b\u306a\u3044\u3067\u301020.01.15\u3011.mp3",
-        "num": 71
+        "num": 70
     },
     {
         "src": "audio/20.01.15/\u795e\u306e\u307e\u306b\u307e\u306b\u301020.01.15\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.15_\u795e\u306e\u307e\u306b\u307e\u306b\u301020.01.15\u3011.mp3",
         "jp_name": "20.01.15_\u795e\u306e\u307e\u306b\u307e\u306b\u301020.01.15\u3011.mp3",
-        "num": 72
+        "num": 71
     },
     {
         "src": "audio/20.01.15/Opening\u301020.01.15\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.01.15_Opening\u301020.01.15\u3011.mp3",
         "jp_name": "20.01.15_Opening\u301020.01.15\u3011.mp3",
-        "num": 73
+        "num": 72
     },
     {
         "src": "audio/pv\u6295\u7a3f/\u300a\u594f(\u304b\u306a\u3067)  \u65e0\u9650\u5f00\u5173\u300b.mp3",
         "img": "icon/album.svg",
         "sc_name": "pv\u6295\u7a3f_\u300a\u594f(\u304b\u306a\u3067)  \u65e0\u9650\u5f00\u5173\u300b.mp3",
         "jp_name": "pv\u6295\u7a3f_\u300a\u594f(\u304b\u306a\u3067)  \u65e0\u9650\u5f00\u5173\u300b.mp3",
-        "num": 74
+        "num": 73
     },
     {
         "src": "audio/pv\u6295\u7a3f/FlowerPop Girl\u301019.11.14\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "pv\u6295\u7a3f_FlowerPop Girl\u301019.11.14\u3011.mp3",
         "jp_name": "pv\u6295\u7a3f_FlowerPop Girl\u301019.11.14\u3011.mp3",
-        "num": 75
+        "num": 74
     },
     {
         "src": "audio/pv\u6295\u7a3f/\u306e\u306e\u306e\u81ea\u6211\u4ecb\u7ecd\u6b4c\u301019.08.01\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "pv\u6295\u7a3f_\u306e\u306e\u306e\u81ea\u6211\u4ecb\u7ecd\u6b4c\u301019.08.01\u3011.mp3",
         "jp_name": "pv\u6295\u7a3f_\u306e\u306e\u306e\u81ea\u6211\u4ecb\u7ecd\u6b4c\u301019.08.01\u3011.mp3",
-        "num": 76
+        "num": 75
     },
     {
         "src": "audio/pv\u6295\u7a3f/\u30a4\u30f3\u30b9\u30bf\u30f3\u30c8\u30d8\u30f4\u30f3\u301020.04.10\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "pv\u6295\u7a3f_\u30a4\u30f3\u30b9\u30bf\u30f3\u30c8\u30d8\u30f4\u30f3\u301020.04.10\u3011.mp3",
         "jp_name": "pv\u6295\u7a3f_\u30a4\u30f3\u30b9\u30bf\u30f3\u30c8\u30d8\u30f4\u30f3\u301020.04.10\u3011.mp3",
-        "num": 77
+        "num": 76
     },
     {
         "src": "audio/pv\u6295\u7a3f/\u6211\u624d\u4e0d\u9700\u8981\u4ec0\u4e48\u9752\u6625\u301020.02.09\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "pv\u6295\u7a3f_\u6211\u624d\u4e0d\u9700\u8981\u4ec0\u4e48\u9752\u6625\u301020.02.09\u3011.mp3",
         "jp_name": "pv\u6295\u7a3f_\u6211\u624d\u4e0d\u9700\u8981\u4ec0\u4e48\u9752\u6625\u301020.02.09\u3011.mp3",
-        "num": 78
+        "num": 77
     },
     {
         "src": "audio/pv\u6295\u7a3f/\u3053\u3053\u304b\u3089\u3001\u3053\u3053\u304b\u3089\u30102020.08.07\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "pv\u6295\u7a3f_\u3053\u3053\u304b\u3089\u3001\u3053\u3053\u304b\u3089\u30102020.08.07\u3011.mp3",
         "jp_name": "pv\u6295\u7a3f_\u3053\u3053\u304b\u3089\u3001\u3053\u3053\u304b\u3089\u30102020.08.07\u3011.mp3",
-        "num": 79
+        "num": 78
     },
     {
         "src": "audio/pv\u6295\u7a3f/\u8bf4\u597d\u4e0d\u54ed\u65e5\u8bed\u7248\u301019.11.28\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "pv\u6295\u7a3f_\u8bf4\u597d\u4e0d\u54ed\u65e5\u8bed\u7248\u301019.11.28\u3011.mp3",
         "jp_name": "pv\u6295\u7a3f_\u8bf4\u597d\u4e0d\u54ed\u65e5\u8bed\u7248\u301019.11.28\u3011.mp3",
-        "num": 80
+        "num": 79
     },
     {
         "src": "audio/20.06.10/\u30bb\u30c4\u30ca\u30c8\u30ea\u30c3\u30d7\u301020.06.10\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.06.10_\u30bb\u30c4\u30ca\u30c8\u30ea\u30c3\u30d7\u301020.06.10\u3011.mp3",
         "jp_name": "20.06.10_\u30bb\u30c4\u30ca\u30c8\u30ea\u30c3\u30d7\u301020.06.10\u3011.mp3",
-        "num": 81
+        "num": 80
     },
     {
         "src": "audio/20.06.10/\u9b42\u306e\u30eb\u30d5\u30e9\u301020.06.10\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.06.10_\u9b42\u306e\u30eb\u30d5\u30e9\u301020.06.10\u3011.mp3",
         "jp_name": "20.06.10_\u9b42\u306e\u30eb\u30d5\u30e9\u301020.06.10\u3011.mp3",
-        "num": 82
+        "num": 81
     },
     {
         "src": "audio/20.06.10/\u3044\u304b\u306a\u3044\u3067\u301020.06.10\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.06.10_\u3044\u304b\u306a\u3044\u3067\u301020.06.10\u3011.mp3",
         "jp_name": "20.06.10_\u3044\u304b\u306a\u3044\u3067\u301020.06.10\u3011.mp3",
-        "num": 83
+        "num": 82
     },
     {
         "src": "audio/20.06.10/\u3044\u3051\u306a\u3044\u30dc\u30fc\u30c0\u30fc\u30e9\u30a4\u30f3\u301020.06.10\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.06.10_\u3044\u3051\u306a\u3044\u30dc\u30fc\u30c0\u30fc\u30e9\u30a4\u30f3\u301020.06.10\u3011.mp3",
         "jp_name": "20.06.10_\u3044\u3051\u306a\u3044\u30dc\u30fc\u30c0\u30fc\u30e9\u30a4\u30f3\u301020.06.10\u3011.mp3",
-        "num": 84
+        "num": 83
     },
     {
         "src": "audio/20.06.10/\u30c9\u30ad\u30c3!\u3053\u3046\u3044\u3046\u306e\u304c\u604b\u306a\u306e\u301020.06.10\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.06.10_\u30c9\u30ad\u30c3!\u3053\u3046\u3044\u3046\u306e\u304c\u604b\u306a\u306e\u301020.06.10\u3011.mp3",
         "jp_name": "20.06.10_\u30c9\u30ad\u30c3!\u3053\u3046\u3044\u3046\u306e\u304c\u604b\u306a\u306e\u301020.06.10\u3011.mp3",
-        "num": 85
+        "num": 84
     },
     {
         "src": "audio/20.06.10/\u5730\u7403\u6700\u5f8c\u306e\u544a\u767d\u3092\u301020.06.10\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.06.10_\u5730\u7403\u6700\u5f8c\u306e\u544a\u767d\u3092\u301020.06.10\u3011.mp3",
         "jp_name": "20.06.10_\u5730\u7403\u6700\u5f8c\u306e\u544a\u767d\u3092\u301020.06.10\u3011.mp3",
-        "num": 86
+        "num": 85
     },
     {
         "src": "audio/20.06.10/Daydream caf\u00e9\u301020.06.10\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.06.10_Daydream caf\u00e9\u301020.06.10\u3011.mp3",
         "jp_name": "20.06.10_Daydream caf\u00e9\u301020.06.10\u3011.mp3",
-        "num": 87
+        "num": 86
     },
     {
         "src": "audio/20.06.10/Just Be Friends\u301020.06.10\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.06.10_Just Be Friends\u301020.06.10\u3011.mp3",
         "jp_name": "20.06.10_Just Be Friends\u301020.06.10\u3011.mp3",
-        "num": 88
+        "num": 87
     },
     {
         "src": "audio/20.04.05/\u5fc3\u505a\u3057\u301020.04.05\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.04.05_\u5fc3\u505a\u3057\u301020.04.05\u3011.mp3",
         "jp_name": "20.04.05_\u5fc3\u505a\u3057\u301020.04.05\u3011.mp3",
-        "num": 89
+        "num": 88
     },
     {
         "src": "audio/20.04.05/\u5929\u30ce\u5f31\u301020.04.05\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.04.05_\u5929\u30ce\u5f31\u301020.04.05\u3011.mp3",
         "jp_name": "20.04.05_\u5929\u30ce\u5f31\u301020.04.05\u3011.mp3",
-        "num": 90
+        "num": 89
     },
     {
         "src": "audio/20.04.05/\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3\u301020.04.05\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.04.05_\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3\u301020.04.05\u3011.mp3",
         "jp_name": "20.04.05_\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3\u301020.04.05\u3011.mp3",
-        "num": 91
+        "num": 90
     },
     {
         "src": "audio/20.04.05/\u3044\u304b\u306a\u3044\u3067\u301020.04.05\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.04.05_\u3044\u304b\u306a\u3044\u3067\u301020.04.05\u3011.mp3",
         "jp_name": "20.04.05_\u3044\u304b\u306a\u3044\u3067\u301020.04.05\u3011.mp3",
-        "num": 92
+        "num": 91
     },
     {
         "src": "audio/20.04.05/\u671d\u713c\u3051\u3001\u541b\u306e\u5504\u301020.04.05\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.04.05_\u671d\u713c\u3051\u3001\u541b\u306e\u5504\u301020.04.05\u3011.mp3",
         "jp_name": "20.04.05_\u671d\u713c\u3051\u3001\u541b\u306e\u5504\u301020.04.05\u3011.mp3",
-        "num": 93
+        "num": 92
     },
     {
         "src": "audio/20.04.05/\u7fe1\u7fe0\u306e\u307e\u3061\u301020.04.05\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.04.05_\u7fe1\u7fe0\u306e\u307e\u3061\u301020.04.05\u3011.mp3",
         "jp_name": "20.04.05_\u7fe1\u7fe0\u306e\u307e\u3061\u301020.04.05\u3011.mp3",
-        "num": 94
+        "num": 93
     },
     {
         "src": "audio/20.04.05/\u3075\u308f\u3075\u308f\u6642\u9593\u301020.04.05\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.04.05_\u3075\u308f\u3075\u308f\u6642\u9593\u301020.04.05\u3011.mp3",
         "jp_name": "20.04.05_\u3075\u308f\u3075\u308f\u6642\u9593\u301020.04.05\u3011.mp3",
-        "num": 95
+        "num": 94
     },
     {
         "src": "audio/20.05.28/\u6307\u5207\u308a\u301020.05.28\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.28_\u6307\u5207\u308a\u301020.05.28\u3011.mp3",
         "jp_name": "20.05.28_\u6307\u5207\u308a\u301020.05.28\u3011.mp3",
-        "num": 96
+        "num": 95
     },
     {
         "src": "audio/20.05.28/\u9752\u6625\u306a\u3093\u3066\u3044\u3089\u306a\u3044\u308f\u301020.05.28\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.28_\u9752\u6625\u306a\u3093\u3066\u3044\u3089\u306a\u3044\u308f\u301020.05.28\u3011.mp3",
         "jp_name": "20.05.28_\u9752\u6625\u306a\u3093\u3066\u3044\u3089\u306a\u3044\u308f\u301020.05.28\u3011.mp3",
-        "num": 97
+        "num": 96
     },
     {
         "src": "audio/20.05.28/\u4e38\u306e\u5185\u30b5\u30c7\u30a3\u30b9\u30c6\u30a3\u30c3\u30af\u301020.05.28\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.28_\u4e38\u306e\u5185\u30b5\u30c7\u30a3\u30b9\u30c6\u30a3\u30c3\u30af\u301020.05.28\u3011.mp3",
         "jp_name": "20.05.28_\u4e38\u306e\u5185\u30b5\u30c7\u30a3\u30b9\u30c6\u30a3\u30c3\u30af\u301020.05.28\u3011.mp3",
-        "num": 98
+        "num": 97
     },
     {
         "src": "audio/20.05.28/\u72ec\u308a\u3093\u307c\u30a8\u30f3\u30f4\u30a3\u30fc\u301020.05.28\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.28_\u72ec\u308a\u3093\u307c\u30a8\u30f3\u30f4\u30a3\u30fc\u301020.05.28\u3011.mp3",
         "jp_name": "20.05.28_\u72ec\u308a\u3093\u307c\u30a8\u30f3\u30f4\u30a3\u30fc\u301020.05.28\u3011.mp3",
-        "num": 99
+        "num": 98
     },
     {
         "src": "audio/20.05.28/\u53ef\u611b\u304f\u306a\u308a\u305f\u3044\u301020.05.28\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.28_\u53ef\u611b\u304f\u306a\u308a\u305f\u3044\u301020.05.28\u3011.mp3",
         "jp_name": "20.05.28_\u53ef\u611b\u304f\u306a\u308a\u305f\u3044\u301020.05.28\u3011.mp3",
-        "num": 100
+        "num": 99
     },
     {
         "src": "audio/20.05.28/\u30cf\u30ed\uff0f\u30cf\u30ef\u30e6\u301020.05.28\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.28_\u30cf\u30ed\uff0f\u30cf\u30ef\u30e6\u301020.05.28\u3011.mp3",
         "jp_name": "20.05.28_\u30cf\u30ed\uff0f\u30cf\u30ef\u30e6\u301020.05.28\u3011.mp3",
-        "num": 101
+        "num": 100
     },
     {
         "src": "audio/20.05.28/\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc\u301020.05.28\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.28_\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc\u301020.05.28\u3011.mp3",
         "jp_name": "20.05.28_\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc\u301020.05.28\u3011.mp3",
-        "num": 102
+        "num": 101
     },
     {
         "src": "audio/20.06.26/\u3086\u308b\u3075\u308f\u6a39\u6d77\u30ac\u30fc\u30eb\u301020.6.26\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.06.26_\u3086\u308b\u3075\u308f\u6a39\u6d77\u30ac\u30fc\u30eb\u301020.6.26\u3011.mp3",
         "jp_name": "20.06.26_\u3086\u308b\u3075\u308f\u6a39\u6d77\u30ac\u30fc\u30eb\u301020.6.26\u3011.mp3",
-        "num": 103
+        "num": 102
     },
     {
         "src": "audio/20.06.26/\u3044\u304b\u306a\u3044\u3067\u301020.6.26\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.06.26_\u3044\u304b\u306a\u3044\u3067\u301020.6.26\u3011.mp3",
         "jp_name": "20.06.26_\u3044\u304b\u306a\u3044\u3067\u301020.6.26\u3011.mp3",
-        "num": 104
+        "num": 103
     },
     {
         "src": "audio/20.06.26/\u30a2\u30b5\u30ac\u30aa\u306e\u6563\u308b\u9803\u306b\u301020.6.26\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.06.26_\u30a2\u30b5\u30ac\u30aa\u306e\u6563\u308b\u9803\u306b\u301020.6.26\u3011.mp3",
         "jp_name": "20.06.26_\u30a2\u30b5\u30ac\u30aa\u306e\u6563\u308b\u9803\u306b\u301020.6.26\u3011.mp3",
-        "num": 105
+        "num": 104
     },
     {
         "src": "audio/20.06.26/Calc\u301020.6.26\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.06.26_Calc\u301020.6.26\u3011.mp3",
         "jp_name": "20.06.26_Calc\u301020.6.26\u3011.mp3",
-        "num": 106
+        "num": 105
     },
     {
         "src": "audio/20.06.26/\u590f\u306e\u7d42\u308f\u308a\u3001\u604b\u306e\u59cb\u307e\u308a\u301020.6.26\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.06.26_\u590f\u306e\u7d42\u308f\u308a\u3001\u604b\u306e\u59cb\u307e\u308a\u301020.6.26\u3011.mp3",
         "jp_name": "20.06.26_\u590f\u306e\u7d42\u308f\u308a\u3001\u604b\u306e\u59cb\u307e\u308a\u301020.6.26\u3011.mp3",
-        "num": 107
+        "num": 106
     },
     {
         "src": "audio/20.06.26/\u590f\u604b\u82b1\u706b\u301020.6.26\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.06.26_\u590f\u604b\u82b1\u706b\u301020.6.26\u3011.mp3",
         "jp_name": "20.06.26_\u590f\u604b\u82b1\u706b\u301020.6.26\u3011.mp3",
-        "num": 108
+        "num": 107
     },
     {
         "src": "audio/20.06.26/\u591c\u660e\u3051\u3068\u86cd\u301020.6.26\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.06.26_\u591c\u660e\u3051\u3068\u86cd\u301020.6.26\u3011.mp3",
         "jp_name": "20.06.26_\u591c\u660e\u3051\u3068\u86cd\u301020.6.26\u3011.mp3",
-        "num": 109
+        "num": 108
     },
     {
         "src": "audio/20.05.09/\u3055\u3088\u3046\u306a\u3089\u3001\u82b1\u6ce5\u68d2\u3055\u3093\u301020.05.09\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.09_\u3055\u3088\u3046\u306a\u3089\u3001\u82b1\u6ce5\u68d2\u3055\u3093\u301020.05.09\u3011.mp3",
         "jp_name": "20.05.09_\u3055\u3088\u3046\u306a\u3089\u3001\u82b1\u6ce5\u68d2\u3055\u3093\u301020.05.09\u3011.mp3",
-        "num": 110
+        "num": 109
     },
     {
         "src": "audio/20.05.09/\u5343\u672c\u685c\u301020.05.09\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.09_\u5343\u672c\u685c\u301020.05.09\u3011.mp3",
         "jp_name": "20.05.09_\u5343\u672c\u685c\u301020.05.09\u3011.mp3",
-        "num": 111
+        "num": 110
     },
     {
         "src": "audio/20.05.09/\u9752\u6625\u306a\u3093\u3066\u3044\u3089\u306a\u3044\u308f\u301020.05.09\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.09_\u9752\u6625\u306a\u3093\u3066\u3044\u3089\u306a\u3044\u308f\u301020.05.09\u3011.mp3",
         "jp_name": "20.05.09_\u9752\u6625\u306a\u3093\u3066\u3044\u3089\u306a\u3044\u308f\u301020.05.09\u3011.mp3",
-        "num": 112
+        "num": 111
     },
     {
         "src": "audio/20.05.09/\u53ef\u611b\u304f\u306a\u308a\u305f\u3044\u301020.05.09\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.09_\u53ef\u611b\u304f\u306a\u308a\u305f\u3044\u301020.05.09\u3011.mp3",
         "jp_name": "20.05.09_\u53ef\u611b\u304f\u306a\u308a\u305f\u3044\u301020.05.09\u3011.mp3",
-        "num": 113
+        "num": 112
     },
     {
         "src": "audio/20.05.09/\u30e9\u30d7\u30f3\u30c4\u30a7\u30eb\u301020.05.09\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.09_\u30e9\u30d7\u30f3\u30c4\u30a7\u30eb\u301020.05.09\u3011.mp3",
         "jp_name": "20.05.09_\u30e9\u30d7\u30f3\u30c4\u30a7\u30eb\u301020.05.09\u3011.mp3",
-        "num": 114
+        "num": 113
     },
     {
         "src": "audio/20.05.09/\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc\u301020.05.09\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.09_\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc\u301020.05.09\u3011.mp3",
         "jp_name": "20.05.09_\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc\u301020.05.09\u3011.mp3",
-        "num": 115
+        "num": 114
     },
     {
         "src": "audio/20.05.09/\u3044\u304b\u306a\u3044\u3067\u301020.05.09\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.09_\u3044\u304b\u306a\u3044\u3067\u301020.05.09\u3011.mp3",
         "jp_name": "20.05.09_\u3044\u304b\u306a\u3044\u3067\u301020.05.09\u3011.mp3",
-        "num": 116
+        "num": 115
     },
     {
         "src": "audio/20.05.09/\u604b\u7a7a\u4e88\u5831\u301020.05.09\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.09_\u604b\u7a7a\u4e88\u5831\u301020.05.09\u3011.mp3",
         "jp_name": "20.05.09_\u604b\u7a7a\u4e88\u5831\u301020.05.09\u3011.mp3",
-        "num": 117
+        "num": 116
     },
     {
         "src": "audio/20.05.09/\u30b3\u30e1\u30c3\u30c8\u30eb\u30b7\u30d5\u30a1\u30fc\u301020.05.09\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.05.09_\u30b3\u30e1\u30c3\u30c8\u30eb\u30b7\u30d5\u30a1\u30fc\u301020.05.09\u3011.mp3",
         "jp_name": "20.05.09_\u30b3\u30e1\u30c3\u30c8\u30eb\u30b7\u30d5\u30a1\u30fc\u301020.05.09\u3011.mp3",
-        "num": 118
+        "num": 117
     },
     {
         "src": "audio/20.02.27/\u4e00\u5ea6\u3060\u3051\u306e\u604b\u306a\u3089\u301020.02.27\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.02.27_\u4e00\u5ea6\u3060\u3051\u306e\u604b\u306a\u3089\u301020.02.27\u3011.mp3",
         "jp_name": "20.02.27_\u4e00\u5ea6\u3060\u3051\u306e\u604b\u306a\u3089\u301020.02.27\u3011.mp3",
-        "num": 119
+        "num": 118
     },
     {
         "src": "audio/20.02.27/\u3044\u304b\u306a\u3044\u3067\u301020.02.27\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.02.27_\u3044\u304b\u306a\u3044\u3067\u301020.02.27\u3011.mp3",
         "jp_name": "20.02.27_\u3044\u304b\u306a\u3044\u3067\u301020.02.27\u3011.mp3",
-        "num": 120
+        "num": 119
     },
     {
         "src": "audio/20.02.27/\u6708\u967d~\u30c4\u30ad\u30a2\u30ab\u30ea~\u301020.02.27\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.02.27_\u6708\u967d~\u30c4\u30ad\u30a2\u30ab\u30ea~\u301020.02.27\u3011.mp3",
         "jp_name": "20.02.27_\u6708\u967d~\u30c4\u30ad\u30a2\u30ab\u30ea~\u301020.02.27\u3011.mp3",
-        "num": 121
+        "num": 120
     },
     {
         "src": "audio/20.02.27/\u30b7\u30e7\u30c3\u30c8\u30ac\u30f3\u30fb\u30e9\u30f4\u30a1\u30fc\u30ba\u301020.02.27\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.02.27_\u30b7\u30e7\u30c3\u30c8\u30ac\u30f3\u30fb\u30e9\u30f4\u30a1\u30fc\u30ba\u301020.02.27\u3011.mp3",
         "jp_name": "20.02.27_\u30b7\u30e7\u30c3\u30c8\u30ac\u30f3\u30fb\u30e9\u30f4\u30a1\u30fc\u30ba\u301020.02.27\u3011.mp3",
-        "num": 122
+        "num": 121
     },
     {
         "src": "audio/20.02.27/\u30b9\u30a4\u30fc\u30c8\u30de\u30b8\u30c3\u30af\u301020.02.27\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.02.27_\u30b9\u30a4\u30fc\u30c8\u30de\u30b8\u30c3\u30af\u301020.02.27\u3011.mp3",
         "jp_name": "20.02.27_\u30b9\u30a4\u30fc\u30c8\u30de\u30b8\u30c3\u30af\u301020.02.27\u3011.mp3",
-        "num": 123
+        "num": 122
     },
     {
         "src": "audio/20.02.27/\u6253\u4e0a\u82b1\u706b\u301020.02.27\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.02.27_\u6253\u4e0a\u82b1\u706b\u301020.02.27\u3011.mp3",
         "jp_name": "20.02.27_\u6253\u4e0a\u82b1\u706b\u301020.02.27\u3011.mp3",
-        "num": 124
+        "num": 123
     },
     {
         "src": "audio/20.02.27/\u3055\u3088\u3046\u306a\u3089\u82b1\u6ce5\u68d2\u3055\u3093\u301020.02.27\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.02.27_\u3055\u3088\u3046\u306a\u3089\u82b1\u6ce5\u68d2\u3055\u3093\u301020.02.27\u3011.mp3",
         "jp_name": "20.02.27_\u3055\u3088\u3046\u306a\u3089\u82b1\u6ce5\u68d2\u3055\u3093\u301020.02.27\u3011.mp3",
-        "num": 125
+        "num": 124
     },
     {
         "src": "audio/20.02.27/\u306a\u3093\u3067\u3082\u306a\u3044\u3084\u301020.02.27\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.02.27_\u306a\u3093\u3067\u3082\u306a\u3044\u3084\u301020.02.27\u3011.mp3",
         "jp_name": "20.02.27_\u306a\u3093\u3067\u3082\u306a\u3044\u3084\u301020.02.27\u3011.mp3",
-        "num": 126
+        "num": 125
     },
     {
         "src": "audio/20.02.27/\u604b\u7a7a\u4e88\u5831\u301020.02.27\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.02.27_\u604b\u7a7a\u4e88\u5831\u301020.02.27\u3011.mp3",
         "jp_name": "20.02.27_\u604b\u7a7a\u4e88\u5831\u301020.02.27\u3011.mp3",
-        "num": 127
+        "num": 126
     },
     {
         "src": "audio/19.11.14/\u304b\u3089\u304f\u308a\u30d4\u30a8\u30ed\u301019.11.14\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.14_\u304b\u3089\u304f\u308a\u30d4\u30a8\u30ed\u301019.11.14\u3011.mp3",
         "jp_name": "19.11.14_\u304b\u3089\u304f\u308a\u30d4\u30a8\u30ed\u301019.11.14\u3011.mp3",
-        "num": 128
+        "num": 127
     },
     {
         "src": "audio/19.11.14/glow\u301019.11.14\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.14_glow\u301019.11.14\u3011.mp3",
         "jp_name": "19.11.14_glow\u301019.11.14\u3011.mp3",
-        "num": 129
+        "num": 128
     },
     {
         "src": "audio/19.11.14/\u30b9\u30a4\u30fc\u30c8\u30de\u30b8\u30c3\u30af\u301019.11.14\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.14_\u30b9\u30a4\u30fc\u30c8\u30de\u30b8\u30c3\u30af\u301019.11.14\u3011.mp3",
         "jp_name": "19.11.14_\u30b9\u30a4\u30fc\u30c8\u30de\u30b8\u30c3\u30af\u301019.11.14\u3011.mp3",
-        "num": 130
+        "num": 129
     },
     {
         "src": "audio/19.11.14/\u30d6\u30e9\u30c3\u30af\u2605\u30ed\u30c3\u30af\u30b7\u30e5\u30fc\u30bf\u30fc\u301019.11.14\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.14_\u30d6\u30e9\u30c3\u30af\u2605\u30ed\u30c3\u30af\u30b7\u30e5\u30fc\u30bf\u30fc\u301019.11.14\u3011.mp3",
         "jp_name": "19.11.14_\u30d6\u30e9\u30c3\u30af\u2605\u30ed\u30c3\u30af\u30b7\u30e5\u30fc\u30bf\u30fc\u301019.11.14\u3011.mp3",
-        "num": 131
+        "num": 130
     },
     {
         "src": "audio/19.11.14/\u3044\u304b\u306a\u3044\u3067\u301019.11.14\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.14_\u3044\u304b\u306a\u3044\u3067\u301019.11.14\u3011.mp3",
         "jp_name": "19.11.14_\u3044\u304b\u306a\u3044\u3067\u301019.11.14\u3011.mp3",
-        "num": 132
+        "num": 131
     },
     {
         "src": "audio/19.11.14/\u6df1\u6d77\u5c11\u5973\u301019.11.14\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.14_\u6df1\u6d77\u5c11\u5973\u301019.11.14\u3011.mp3",
         "jp_name": "19.11.14_\u6df1\u6d77\u5c11\u5973\u301019.11.14\u3011.mp3",
-        "num": 133
+        "num": 132
     },
     {
         "src": "audio/19.11.14/\u30ef\u30fc\u30eb\u30c9\u30a4\u30ba\u30de\u30a4\u30f3\u301019.11.14\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.14_\u30ef\u30fc\u30eb\u30c9\u30a4\u30ba\u30de\u30a4\u30f3\u301019.11.14\u3011.mp3",
         "jp_name": "19.11.14_\u30ef\u30fc\u30eb\u30c9\u30a4\u30ba\u30de\u30a4\u30f3\u301019.11.14\u3011.mp3",
-        "num": 134
+        "num": 133
     },
     {
         "src": "audio/19.11.14/Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\u301019.11.14\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.14_Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\u301019.11.14\u3011.mp3",
         "jp_name": "19.11.14_Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\u301019.11.14\u3011.mp3",
-        "num": 135
+        "num": 134
     },
     {
         "src": "audio/19.11.14/\u5929\u30ce\u5f31\u301019.11.14\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.11.14_\u5929\u30ce\u5f31\u301019.11.14\u3011.mp3",
         "jp_name": "19.11.14_\u5929\u30ce\u5f31\u301019.11.14\u3011.mp3",
-        "num": 136
+        "num": 135
     },
     {
         "src": "audio/19.12.20/\u767d\u3044\u96ea\u306e\u30d7\u30ea\u30f3\u30bb\u30b9\u306f\u301019.12.20\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.12.20_\u767d\u3044\u96ea\u306e\u30d7\u30ea\u30f3\u30bb\u30b9\u306f\u301019.12.20\u3011.mp3",
         "jp_name": "19.12.20_\u767d\u3044\u96ea\u306e\u30d7\u30ea\u30f3\u30bb\u30b9\u306f\u301019.12.20\u3011.mp3",
-        "num": 137
+        "num": 136
     },
     {
         "src": "audio/19.12.20/\u3044\u304b\u306a\u3044\u3067\u301019.12.20\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.12.20_\u3044\u304b\u306a\u3044\u3067\u301019.12.20\u3011.mp3",
         "jp_name": "19.12.20_\u3044\u304b\u306a\u3044\u3067\u301019.12.20\u3011.mp3",
-        "num": 138
+        "num": 137
     },
     {
         "src": "audio/19.12.20/SPiCa\u301019.12.20\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.12.20_SPiCa\u301019.12.20\u3011.mp3",
         "jp_name": "19.12.20_SPiCa\u301019.12.20\u3011.mp3",
-        "num": 139
+        "num": 138
     },
     {
         "src": "audio/19.12.20/Snow halation\u301019.12.20\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.12.20_Snow halation\u301019.12.20\u3011.mp3",
         "jp_name": "19.12.20_Snow halation\u301019.12.20\u3011.mp3",
-        "num": 140
+        "num": 139
     },
     {
         "src": "audio/19.12.20/Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\u301019.12.20\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.12.20_Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\u301019.12.20\u3011.mp3",
         "jp_name": "19.12.20_Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\u301019.12.20\u3011.mp3",
-        "num": 141
+        "num": 140
     },
     {
         "src": "audio/19.12.20/\u30aa\u30ea\u30aa\u30f3\u306e\u5922 \u301019.12.20\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.12.20_\u30aa\u30ea\u30aa\u30f3\u306e\u5922 \u301019.12.20\u3011.mp3",
         "jp_name": "19.12.20_\u30aa\u30ea\u30aa\u30f3\u306e\u5922 \u301019.12.20\u3011.mp3",
-        "num": 142
+        "num": 141
     },
     {
         "src": "audio/19.12.20/\u521d\u3081\u3066\u306e\u604b\u304c\u7d42\u308f\u308b\u6642\u301019.12.20\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.12.20_\u521d\u3081\u3066\u306e\u604b\u304c\u7d42\u308f\u308b\u6642\u301019.12.20\u3011.mp3",
         "jp_name": "19.12.20_\u521d\u3081\u3066\u306e\u604b\u304c\u7d42\u308f\u308b\u6642\u301019.12.20\u3011.mp3",
-        "num": 143
+        "num": 142
     },
     {
         "src": "audio/19.12.20/\u594f\u300a\u65e0\u9650\u5f00\u5173\u300b\u301019.12.20\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "19.12.20_\u594f\u300a\u65e0\u9650\u5f00\u5173\u300b\u301019.12.20\u3011.mp3",
         "jp_name": "19.12.20_\u594f\u300a\u65e0\u9650\u5f00\u5173\u300b\u301019.12.20\u3011.mp3",
-        "num": 144
+        "num": 143
     },
     {
         "src": "audio/20.07.17/clock lock works_MP3.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.07.17_clock lock works_MP3.mp3",
         "jp_name": "20.07.17_clock lock works_MP3.mp3",
-        "num": 145
+        "num": 144
     },
     {
         "src": "audio/20.07.17/\u5fc3\u62cd\u6570#0822_MP3.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.07.17_\u5fc3\u62cd\u6570#0822_MP3.mp3",
         "jp_name": "20.07.17_\u5fc3\u62cd\u6570#0822_MP3.mp3",
-        "num": 146
+        "num": 145
     },
     {
         "src": "audio/20.07.17/\u30a2\u30a4\u30e9\u30d3\u30e5\u30fc\u30a2\u30a4\u30cb\u30b8\u30e5\u30fc_MP3.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.07.17_\u30a2\u30a4\u30e9\u30d3\u30e5\u30fc\u30a2\u30a4\u30cb\u30b8\u30e5\u30fc_MP3.mp3",
         "jp_name": "20.07.17_\u30a2\u30a4\u30e9\u30d3\u30e5\u30fc\u30a2\u30a4\u30cb\u30b8\u30e5\u30fc_MP3.mp3",
-        "num": 147
+        "num": 146
     },
     {
         "src": "audio/20.07.17/\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3_MP3.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.07.17_\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3_MP3.mp3",
         "jp_name": "20.07.17_\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3_MP3.mp3",
-        "num": 148
+        "num": 147
     },
     {
         "src": "audio/20.07.17/\u4e00\u5ea6\u3060\u3051\u306e\u604b\u306a\u3089_MP3.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.07.17_\u4e00\u5ea6\u3060\u3051\u306e\u604b\u306a\u3089_MP3.mp3",
         "jp_name": "20.07.17_\u4e00\u5ea6\u3060\u3051\u306e\u604b\u306a\u3089_MP3.mp3",
-        "num": 149
+        "num": 148
     },
     {
         "src": "audio/20.07.17/kiss_MP3.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.07.17_kiss_MP3.mp3",
         "jp_name": "20.07.17_kiss_MP3.mp3",
-        "num": 150
+        "num": 149
     },
     {
         "src": "audio/20.07.17/\u3044\u304b\u306a\u3044\u3067_MP3.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.07.17_\u3044\u304b\u306a\u3044\u3067_MP3.mp3",
         "jp_name": "20.07.17_\u3044\u304b\u306a\u3044\u3067_MP3.mp3",
-        "num": 151
+        "num": 150
     },
     {
         "src": "audio/20.02.16/\u30e1\u30e9\u30f3\u30b3\u30ea\u30c3\u30af\u301020.02.16\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.02.16_\u30e1\u30e9\u30f3\u30b3\u30ea\u30c3\u30af\u301020.02.16\u3011.mp3",
         "jp_name": "20.02.16_\u30e1\u30e9\u30f3\u30b3\u30ea\u30c3\u30af\u301020.02.16\u3011.mp3",
-        "num": 152
+        "num": 151
     },
     {
         "src": "audio/20.02.16/\u30e1\u30eb\u30c8\u301020.02.16\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.02.16_\u30e1\u30eb\u30c8\u301020.02.16\u3011.mp3",
         "jp_name": "20.02.16_\u30e1\u30eb\u30c8\u301020.02.16\u3011.mp3",
-        "num": 153
+        "num": 152
     },
     {
         "src": "audio/20.02.16/\u767d\u3044\u96ea\u306e\u30d7\u30ea\u30f3\u30bb\u30b9\u306f\u301020.02.16\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.02.16_\u767d\u3044\u96ea\u306e\u30d7\u30ea\u30f3\u30bb\u30b9\u306f\u301020.02.16\u3011.mp3",
         "jp_name": "20.02.16_\u767d\u3044\u96ea\u306e\u30d7\u30ea\u30f3\u30bb\u30b9\u306f\u301020.02.16\u3011.mp3",
-        "num": 154
+        "num": 153
     },
     {
         "src": "audio/20.02.16/\u53ef\u611b\u304f\u306a\u308a\u305f\u3044\u301020.02.16\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.02.16_\u53ef\u611b\u304f\u306a\u308a\u305f\u3044\u301020.02.16\u3011.mp3",
         "jp_name": "20.02.16_\u53ef\u611b\u304f\u306a\u308a\u305f\u3044\u301020.02.16\u3011.mp3",
-        "num": 155
+        "num": 154
     },
     {
         "src": "audio/20.02.16/\u3088\u3046\u3053\u305d\u30b8\u30e3\u30d1\u30ea\u30d1\u30fc\u30af\u3078\u301020.02.16\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.02.16_\u3088\u3046\u3053\u305d\u30b8\u30e3\u30d1\u30ea\u30d1\u30fc\u30af\u3078\u301020.02.16\u3011.mp3",
         "jp_name": "20.02.16_\u3088\u3046\u3053\u305d\u30b8\u30e3\u30d1\u30ea\u30d1\u30fc\u30af\u3078\u301020.02.16\u3011.mp3",
-        "num": 156
+        "num": 155
     },
     {
         "src": "audio/20.02.16/\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3\u301020.02.16\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.02.16_\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3\u301020.02.16\u3011.mp3",
         "jp_name": "20.02.16_\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3\u301020.02.16\u3011.mp3",
-        "num": 157
+        "num": 156
     },
     {
         "src": "audio/20.02.16/\u3044\u3051\u306a\u3044\u30dc\u30fc\u30c0\u30fc\u30e9\u30a4\u30f3\u301020.02.16\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.02.16_\u3044\u3051\u306a\u3044\u30dc\u30fc\u30c0\u30fc\u30e9\u30a4\u30f3\u301020.02.16\u3011.mp3",
         "jp_name": "20.02.16_\u3044\u3051\u306a\u3044\u30dc\u30fc\u30c0\u30fc\u30e9\u30a4\u30f3\u301020.02.16\u3011.mp3",
-        "num": 158
+        "num": 157
     },
     {
         "src": "audio/20.02.16/\u3044\u304b\u306a\u3044\u3067\u301020.02.16\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.02.16_\u3044\u304b\u306a\u3044\u3067\u301020.02.16\u3011.mp3",
         "jp_name": "20.02.16_\u3044\u304b\u306a\u3044\u3067\u301020.02.16\u3011.mp3",
-        "num": 159
+        "num": 158
     },
     {
         "src": "audio/20.02.16/Snow halation\u301020.02.16\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.02.16_Snow halation\u301020.02.16\u3011.mp3",
         "jp_name": "20.02.16_Snow halation\u301020.02.16\u3011.mp3",
-        "num": 160
+        "num": 159
     },
     {
         "src": "audio/20.02.16/Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\u301020.02.16\u3011.mp3",
         "img": "icon/album.svg",
         "sc_name": "20.02.16_Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\u301020.02.16\u3011.mp3",
         "jp_name": "20.02.16_Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\u301020.02.16\u3011.mp3",
-        "num": 161
+        "num": 160
     }
 ]

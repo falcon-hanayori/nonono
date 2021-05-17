@@ -133,6 +133,14 @@
 }
 
 /*控制按钮的样式*/
+.play_mode{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+
 .play {
     width: 20px;
     height: 20px;

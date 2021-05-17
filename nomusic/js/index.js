@@ -17,6 +17,8 @@ $(document).ready(function () {
     // 目前播放第几首歌 
     Player.prototype.playIndex = 0;
     Player.prototype.isplay = false;
+    Player.prototype.playModes = ["loop", "shuffle", "repeat-once"]
+    Player.prototype.currentPlayMode = 0
     // 定义播放器的方法 
     Player.prototype.rangUpdate = function () {
         //this.audio.ontimeupdate =function() 音乐播放器播放音乐时监听 
@@ -32,11 +34,7 @@ $(document).ready(function () {
             if (this.currentTime == this.duration) {
                 player.nextMusic();
             }
-
-
-
         }
-
     };
     Player.prototype.playMusic = function () {
         //向播放器添加音乐路径 
@@ -49,14 +47,16 @@ $(document).ready(function () {
 
     };
     Player.prototype.nextMusic = function () {
-
+        if(this.playModes[this.currentPlayMode] == 'loop'){
+            this.playIndex += 1;
+        }
+        else if(this.playModes[this.currentPlayMode] == 'shuffle'){
+            this.playIndex = Math.floor(Math.random()*musicModels.length);  
+        }
 
         //越界问题 
-        if (this.playIndex >= musicModels.length - 1) {
+        if (this.playIndex >= musicModels.length) {
             this.playIndex = 0;
-
-        } else {
-            this.playIndex = this.playIndex + 1;
         }
         //改变音乐类表的对应项的样式 
 
@@ -90,6 +90,12 @@ $(document).ready(function () {
         }
         this.isplay = !this.isplay;
     };
+    Player.prototype.changePlayMode = function(){
+        this.currentPlayMode += 1;
+        if(this.currentPlayMode >= this.playModes.length) this.currentPlayMode = 0;
+        //注意 playModes 中的字符串应与 icon 文件名一致
+        $('.play_mode').attr('src', 'icon/' + this.playModes[this.currentPlayMode] + '.svg');
+    }
     // js文件从此向下 
     // 创建音乐数组 
     var musicModels = [];
@@ -184,6 +190,10 @@ $(document).ready(function () {
             }
         );
     }
+
+    $(".play_mode").click(function(){
+        player.changePlayMode();
+    })
 
     $(".play").click(function () {
         player.playOrPause();
