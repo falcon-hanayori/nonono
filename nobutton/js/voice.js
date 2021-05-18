@@ -4,6 +4,7 @@ var no = [{"jp":"普通","sc":"普通","state":1,"voice":[{"jp":"変態じゃな
 												,{"jp":"の↓の↑の↑だよ","sc":"是no↓no↑no↑","file":"nodayo"}
 												,{"jp":"のののでぶ","sc":"nononodebu","file":"nodebu"}
 												,{"jp":"面白い女 気にだぜ","sc":"有趣的女人 爱了","file":"omoshiroionna"}
+												,{"jp":"ありがとうございま↓す！","sc":"谢↓谢！","file":"arigadougozaimasu"}
 		]},{"jp":"萌","sc":"萌","state":1,"voice":[{"jp":"ありがとうバイバイ","sc":"谢谢拜拜","file":"dao"}
 												,{"jp":"キラキラ","sc":"kirakira","file":"kirakira"}
 												,{"jp":"リップロール","sc":"liproll","file":"liproll"}
